@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Heman Shakeri"
 description              : &description "Heman Shakeri is Assistant Professor at the University of Virginia School of Data"
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/hshakeri.github.io/academic-home" # the subpath of your site, e.g. "/blog"
 repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
