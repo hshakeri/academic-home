@@ -1,15 +1,31 @@
 ---
-title: "Paper Title Number 1"
+title: "Maximizing algebraic connectivity in interconnected networks"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/algConnPRE
+excerpt: 'This paper is about Maximizing Algebraic Connectivity in multiplexes.'
+author_profile: false
+date: 2016-3-21
+venue: 'Physical Review E'
+paperurl: 'https://journals.aps.org/pre/abstract/10.1103/PhysRevE.93.030301'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Algebraic connectivity, the second eigenvalue of the Laplacian matrix, is a measure of node and link connectivity on networks. When studying interconnected networks it is useful to consider a multiplex model, where the component networks operate together with interlayer links among them. In order to have a well-connected multilayer structure, it is necessary to optimally design these interlayer links considering realistic constraints. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+![A schematic of a multiplex network with two layers](/images/algConnPRE.png)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+In this work, we solve the problem of finding an optimal weight distribution for one-to-one interlayer links under budget constraint. We show that for the special multiplex configurations with identical layers, the uniform weight distribution is always optimal. On the other hand, when the two layers are arbitrary, increasing the budget reveals the existence of two different regimes. Up to a certain threshold budget, the second eigenvalue of the supra-Laplacian is simple, the optimal weight distribution is uniform, and the Fiedler vector is constant on each layer. Increasing the budget past the threshold, the optimal weight distribution can be nonuniform. The interesting consequence of this result is that there is no need to solve the optimization problem when the available budget is less than the threshold, which can be easily found analytically.
+
+![Plots of algebraic connectivity with different amount of available budget. ](/images/algConnPRE2.png)
+
+
+```
+@article{shakeri2016maximizing,
+  title={Maximizing algebraic connectivity in interconnected networks},
+  author={Shakeri, Heman and Albin, Nathan and Sahneh, Faryad Darabi and Poggi-Corradini, Pietro and Scoglio, Caterina},
+  journal={Physical Review E},
+  volume={93},
+  number={3},
+  pages={030301},
+  year={2016},
+  publisher={American Physical Society}
+}
+```
