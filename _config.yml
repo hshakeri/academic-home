@@ -83,11 +83,11 @@ author:
   name             : "Heman Shakeri"
   avatar           : "profile.png"
   bio              : "Assistant Professor, School of Data Science | University of Virginia"
-  location         : "Charlottesville, Virginia"
+  location         : #"Charlottesville, Virginia"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zFIIhGMAAAAJ&hl=en"
-  email            :
+  email            : "hs9hd@virginia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
