@@ -2,7 +2,7 @@
 title: "Maximizing algebraic connectivity in interconnected networks"
 collection: publications
 permalink: /publication/algConnPRE
-excerpt: 'This paper is about Maximizing Algebraic Connectivity in multiplexes.'
+excerpt: 'In this work, we solve the problem of finding an optimal weight distribution for one-to-one interlayer links in multiplex networks under budget constraint'
 author_profile: false
 date: 2016-3-21
 venue: 'Physical Review E'
