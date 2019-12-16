@@ -32,15 +32,6 @@ For the complete list and further details see Teaching].
 
 ## Spring 2020 
 
-- CS 5010
+- [CS 5010]({{ site.baseurl }}{% link _teaching/2020-spring-teaching-2.md %})
 
-- CS 5012
-
-
-**Markdown generator**
-
-
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
+- [CS 5012]({{ site.baseurl }}{% link _teaching/2020-spring-teaching-1.md %})
