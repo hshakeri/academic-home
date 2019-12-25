@@ -23,7 +23,7 @@ Although the applications of my research are mainly in
 high-dimensional interconnected systems,
 the omnipresence of networks and the increased accessibility of mass data  makes my research portfolio heavily multidisciplinary. Therefore, I am always seeking interesting problems in different domains that can be approached from analytical and practical angles. 
 
-
+**Our team is looking for a postdoc researcher to work on predictive analytics with a focus in humanitarian crises; apply [here](https://uva.wd1.myworkdayjobs.com/UVAJobs/job/Charlottesville-VA/Predictive-Analytics-Postdoctoral-Research-Associate_R0012540)!** 
 
 Teaching
 ======
