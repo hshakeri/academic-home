@@ -27,9 +27,6 @@ the omnipresence of networks and the increased accessibility of mass data  makes
 
 Teaching
 ======
-For the complete list and further details see Teaching].
-
-
 ## Spring 2020 
 
 - [CS 5010]({{ site.baseurl }}{% link _teaching/2020-spring-teaching-2.md %})
